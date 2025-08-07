@@ -3,3 +3,4 @@ written by me
 language=java
 on 5th Aug,2025
 coding added from VS Code 
+new day new line
